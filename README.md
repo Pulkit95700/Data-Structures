@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning DSA Python3 
 - 💞️ I’m looking to collaborate on new projects 
 - 📫 How to reach me 
-instagram username: pulkitgupta_95700
+instagram username: www.instagram.com/pulkitgupta_95700
 
 <!---
 Pulkit95700/Pulkit95700 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
