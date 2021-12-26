@@ -10,4 +10,4 @@ def Subsets(input_list):
 		output.extend(subset_list)
 		return output
 
-print(Subsets([1,2,3,4]),end = "")
+print(Subsets([1,2,3,4],end = "")
